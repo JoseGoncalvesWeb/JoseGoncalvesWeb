@@ -1,176 +1,112 @@
 # 👋 Olá, sou o José Gonçalves
 
-### 💼 Web Designer & Full-Stack Developer | Ikigai Studio
+### 💼 Full-Stack Developer · Laravel · Vue.js · MySQL | Founder @ [Ikigai Studio](https://ikigaistudio.pt)
 
-Transformo propósitos em experiências digitais — com empatia, beleza e funcionalidade.
-
----
-
-## 🎯 Sobre Mim
-
-Sou fundador do **[Ikigai Studio](https://ikigaistudio.pt)**, onde combino a minha experiência como enfermeiro com web design e desenvolvimento. Acredito que cada pessoa tem um propósito único — o seu **ikigai** — e é esse equilíbrio entre o que amamos, o que fazemos bem, o que o mundo precisa e aquilo que nos sustenta que procuro refletir em cada projeto.
-
-Mais do que design, ofereço **presença**. Crio espaços visuais que respeitam a essência de cada cliente, com serenidade, intenção e beleza funcional.
+Da saúde ao código, com o mesmo propósito: servir com empatia.
 
 ---
 
-## 🚀 Experiência Profissional
+## 🎯 Sobre mim
 
-### Estágio em Desenvolvimento Web | **Inovcorp** (Agosto - Novembro 2025)
+Sou enfermeiro há mais de uma década, atualmente no Serviço de Ortopedia do Hospital de São João, e Full-Stack Developer especializado em **Laravel** e **Vue.js**. Fundei o **[Ikigai Studio](https://ikigaistudio.pt)**, onde desenvolvo websites e aplicações à medida para pequenos negócios.
 
-Durante 3 meses de estágio na Inovcorp, desenvolvi 4 sistemas web completos de crescente complexidade, aplicando boas práticas de desenvolvimento, segurança e arquitetura moderna:
+Da enfermagem trago o rigor, o trabalho em equipa e a certeza de que nenhum sistema é bom se não servir quem o usa. Interessam-me especialmente projetos na área da saúde.
 
-#### 📚 **1. Sistema de Gestão de Biblioteca**
-
-_Projeto inicial - CRUD avançado com integração externa_  
-🔗 **[Ver Repositório](https://github.com/JoseGoncalvesWeb/biblioteca)**
-
-Sistema completo de gestão bibliotecária desenvolvido com **Laravel 11 + Livewire**
-
--   **CRUD completo** de livros, autores e editoras com validações robustas
--   Integração com **Google Books API** para preenchimento automático
--   **Autenticação 2FA** via Google Authenticator com códigos de recuperação
--   Sistema de **requisições e encomendas** com controlo de stock
--   **Export para Excel** de catálogos e relatórios
--   Cifragem de dados sensíveis (RGPD)
--   Interface moderna com **DaisyUI**
--   **Stack:** Laravel 11, Livewire, Jetstream, Tailwind CSS, DaisyUI, MySQL
-
-#### 💬 **2. Chat App - Sistema de Comunicação em Tempo Real**
-
-_Projeto intermediário - WebSockets e comunicação assíncrona_  
-🔗 **[Ver Repositório](https://github.com/JoseGoncalvesWeb/chat-app)**
-
-Aplicação empresarial de chat inspirada no **Campfire** da Once
-
--   Comunicação em **tempo real** com **WebSockets + Pusher**
--   **Salas de chat** públicas com gestão de membros
--   **Mensagens diretas (DM)** privadas entre utilizadores
--   Sistema de **notificações com badges** em tempo real
--   Controlo de acesso baseado em **roles** (Admin/User)
--   Interface minimalista e intuitiva com Tailwind CSS
--   **Stack:** Laravel 11, Breeze, WebSockets, Pusher, Tailwind CSS, MySQL
-
-#### ✅ **3. To-Do App - Gestão Moderna de Tarefas**
-
-_Projeto avançado - SPA com Vue.js 3 e Inertia.js_  
-🔗 **[Ver Repositório](https://github.com/JoseGoncalvesWeb/todo-app)**
-
-Aplicação moderna de gestão de tarefas que evoluiu de Blade para **SPA completa**
-
--   **Single Page Application** com **Vue.js 3 + Inertia.js**
--   **Dashboard analítico** com métricas em tempo real
--   Sistema de **soft deletes** com lixeira e recuperação
--   **Filtros dinâmicos** inteligentes (estado, prioridade, prazo)
--   Sistema de **prioridades** com códigos visuais
--   **Modo escuro/claro** adaptativo
--   Toggle **Hoje/Esta Semana** no dashboard
--   Duplicação rápida de tarefas
--   **Stack:** Laravel 12, Vue.js 3, Inertia.js, Tailwind CSS, MySQL
-
-#### 🏢 **4. Gest-App - Sistema de Gestão Empresarial** _(Projeto Final)_
-
-_Projeto final de estágio - Sistema ERP completo para PMEs_  
-🔗 **[Ver Repositório](https://github.com/JoseGoncalvesWeb/gest-app)**
-
-Sistema empresarial completo desenvolvido em **18 dias** (6-18 Nov 2025)
-
--   **20 módulos integrados**: Clientes, Fornecedores, Produtos, Encomendas, Financeiro, RH, CRM
--   **Sistema de permissões granular** com Spatie Laravel Permission
--   **Cifra AES-256-CBC** de 13 campos sensíveis (RGPD)
--   **Integração financeira automática** (Encomendas → Conta Corrente + Banco)
--   **Gestão automática de stock** sincronizada com vendas
--   **Arquivo digital seguro** com autenticação
--   **Dashboard adaptativo** baseado em permissões do utilizador
--   Calendário integrado com **FullCalendar**
--   **Export PDF** de extratos e relatórios
--   **Dark mode** completo em toda aplicação
--   Interface consistente com **Shadcn/ui**
--   Histórico de atividades (logs) detalhado
--   **Stack:** Laravel 12, Vue.js 3, Inertia.js, Tailwind CSS, Shadcn/ui, MySQL, Spatie Permissions
+📍 Porto, Portugal · 🔎 À procura de oportunidades como Full-Stack Developer (Laravel/Vue)
 
 ---
 
-## 🎓 Formação Académica
+## 🚀 Projetos em produção
 
-### Curso de Design e Programação Web | **MasterD** (2024-2025)
+### 🌿 [Trevo Terapias](https://trevoterapias.pt)
 
-Projeto Final: Website completo com sistema de autenticação, gestão de conteúdos e área administrativa
+Site de uma clínica de terapia da fala, terapia ocupacional, psicologia, neuropsicologia e educação especial.
+
+- Pedido de consulta online com notificação por email
+- **Questionário de anamnese digital**: a clínica gera links únicos com token, os pais preenchem online e a equipa consulta as respostas num dashboard com exportação em PDF
+- Área de administração com autenticação
+- Segurança: proteção **CSRF**, sanitização de dados, sessões seguras, cabeçalhos HTTP e registo de eventos
+- URLs limpas, sitemap, PWA e página de acessibilidade
+- **Stack:** PHP (sem framework), MySQL, PHPMailer, Apache
+
+### 🍂 [Outono Terra](https://outonoterra.pt)
+
+Aplicação bilingue (PT/EN) para um projeto de alimentação natural e catering saudável no Porto.
+
+- **Backoffice** para gerir produtos, workshops, blog, categorias e contactos
+- Catálogo com galerias de imagem e vídeo
+- Avaliações de produtos e workshops com **moderação** e notificações por email
+- **SEO técnico**: sitemap dinâmico, Schema.org, Open Graph e redirecionamento de URLs antigos
+- **Stack:** Laravel, Blade, Breeze, MySQL, Tailwind CSS, Vite
+
+### 🎨 [Ikigai Studio](https://ikigaistudio.pt)
+
+Portfolio SPA em **Vue.js** com filtros de projetos, carrossel interativo, formulário com PHPMailer e SEO com Schema.org.
 
 ---
 
-## 💻 Tech Stack
+## 🧪 Estágio na Inovcorp (ago–nov 2025)
 
-### Frontend
+Quatro sistemas completos de crescente complexidade, em quatro meses:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+| Projeto | O que tem | Stack |
+|---|---|---|
+| 🏢 **[Gest-App](https://github.com/JoseGoncalvesWeb/gest-app)** | ERP com 20 módulos feito em 18 dias: permissões granulares, cifragem AES-256 (RGPD), integração financeira e de stock automática, calendário, exportação PDF | Laravel 12, Vue 3, Inertia.js, Shadcn/ui, Spatie Permissions |
+| ✅ **[To-Do App](https://github.com/JoseGoncalvesWeb/todo-app)** | SPA com dashboard analítico, soft deletes, filtros dinâmicos e modo escuro | Laravel 12, Vue 3, Inertia.js |
+| 💬 **[Chat App](https://github.com/JoseGoncalvesWeb/chat-app)** | Chat em tempo real com salas públicas, mensagens diretas, notificações e roles | Laravel 11, WebSockets, Pusher |
+| 📚 **[Biblioteca](https://github.com/JoseGoncalvesWeb/biblioteca)** | Gestão de biblioteca com Google Books API, 2FA, requisições, stock e exportação Excel | Laravel 11, Livewire, Jetstream |
 
-### Backend
+---
+
+## 💻 Tech stack
+
+**Backend**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Ferramentas & Outros
+**Frontend**
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Google Books API](https://img.shields.io/badge/Google_Books_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
 
 ---
 
-## 🌟 Projetos Destacados
+## 🎓 Formação
 
-### 🎨 [Ikigai Studio](https://ikigaistudio.pt) - Portfolio Pessoal
-
-Website portfolio com design japonês minimalista
-
--   Single Page Application com **Vue.js**
--   Sistema de filtros de projetos
--   Carrossel de imagens interativo
--   Formulário de contacto com **PHPMailer**
--   SEO otimizado com Schema.org
--   **Stack:** PHP, Vue.js, MySQL, PHPMailer
-
-### 🌿 [Centro Terapêutico Trevo](https://github.com/JoseGoncalvesWeb/Trevo) _(Em Desenvolvimento)_
-
-Website para centro de terapias complementares
-
--   Sistema de agendamentos integrado
--   Gestão de disponibilidade de terapeutas
--   Dashboard administrativo
--   Sistema de questionários para clientes
--   **Stack:** PHP, JavaScript, MySQL
+- **Curso de Desenvolvimento e Programação Web Avançado** · MasterD (2024–2025)
+- **Licenciatura em Enfermagem** · Escola Superior de Enfermagem do Porto (2007–2012)
 
 ---
 
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josecarlosgoncalves2107)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ikigaistudio.pt)
+[![Website](https://img.shields.io/badge/Ikigai_Studio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ikigaistudio.pt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikigai.estudio@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoTnOoDlEs21&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HoTnOoDlEs21&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseGoncalvesWeb&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGoncalvesWeb&layout=compact&theme=tokyonight)
 
 ---
 
 <div align="center">
   <i>✨ "No Ikigai Studio, cada projeto é uma extensão do teu propósito — algo que te represente, te inspire e te faça sentir em casa." ✨</i>
 </div>
-
-
-
-<!---
-HoTnOoDlEs21/HoTnOoDlEs21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
