@@ -96,7 +96,7 @@ Quatro sistemas completos de crescente complexidade, em quatro meses:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josecarlosgoncalves2107)
 [![Website](https://img.shields.io/badge/Ikigai_Studio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ikigaistudio.pt)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikigai.estudio@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikigaistudioweb@gmail.com)
 
 ---
 
