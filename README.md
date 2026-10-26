@@ -18,7 +18,7 @@ Da enfermagem trago o rigor, o trabalho em equipa e a certeza de que nenhum sist
 
 ## 🚀 Projetos em produção
 
-### 🌿 [Trevo Terapias](https://trevoterapias.pt)
+### 🌿 [Trevo Terapias](https://trevo-terapias.pt)
 
 Site de uma clínica de terapia da fala, terapia ocupacional, psicologia, neuropsicologia e educação especial.
 
